@@ -1,5 +1,5 @@
-\documentclass[11pt,a4paper]{scrartcl}
-%\documentclass[11pt,a4paper]{article}
+%\documentclass[11pt,a4paper]{scrartcl}
+\documentclass[11pt,a4paper]{article}
 
 \usepackage[affil-it]{authblk}
 \usepackage{geometry}
@@ -16,7 +16,9 @@
 \usepackage{natbib}
 %\usepackage{libertine}
 \usepackage{pgfgantt}
+
 \usepackage{pdflscape}
+\usepackage{amsmath}
 
 
 % The title of your topic should be succinct.
@@ -26,7 +28,7 @@
 Is the FIFA World Cup Draw Truly Random?}
 \author{Pratik Kulkarni (19400570)\\ Shrey Parekh (18706941)}
 \affil{Project proposal for 301111 Discovery Project}
-\author{Supervisor: Dr Russell Thompson}
+\author{Supervisor: Dr. Russell Thomson}
 
 % A project proposal submitted for \@unitnumber{} \@unitname{}
 % in partial fulfilment of the requirements for the degree of
@@ -43,6 +45,7 @@ Is the FIFA World Cup Draw Truly Random?}
 
 \begin{document}
 
+\nocite{*}
 
 \maketitle
 
@@ -64,7 +67,7 @@ Is the FIFA World Cup Draw Truly Random?}
 
 Is the FIFA World Cup draw truly random?
 \\ \\
-This is the topic chosen for our Discovery Project. The topic was selected by our supervisor, Dr Thompson while watching a soccer match and decided to investigate this topic.
+This is the topic chosen for our Discovery Project. The topic was selected by our supervisor, Dr. Thomson while watching a soccer match and decided to investigate this topic.
 We intend to investigate whether the FIFA World Cup draw is truly random and if each group has an even chance of being drafted into the groups. 
 \\ \\
 Researchers such as \citet{cea2020analytics}, conducted research on a similar topic. In this paper, they found that one of those main factors that affects the countries chances of being drafted is their home-away status. While this does not directly affect the team ranking by points, a general belief is that teams always play better at home, this factor has not yet been considered in the draw of teams so far. This affects their game due to the home team feeling stronger with a crowd that is supportive of them. This in turn influences their world ranking. Moreover, another factor found in this paper’s research was that until the 2018 World Cup, teams would avoid friendly games due to friendlies awarding very few points, teams that would play more friendlies had less chances of going further up the team ranking table as compared to teams who avoided friendly matches and climbed up the ranks. 
@@ -78,32 +81,34 @@ The knowledge gap in this topic would be that there is no fairness index created
 
 \marginnote{This section is written by Shrey Parekh (18706941) }
 
-The Supervisors goals are centred on providing value and results to the fans. This can be seen through testing the randomness of the FIFA world cup draw. The goal of this project is to determine the predictions of the simulated world cup draw. Aim is to discover the fairness index for each team that qualified for the world cup, based on the FIFA team rankings of the teams in the same grouping. This will allow us to determine that world cup draw is based on chance or is done through an algorithm.
+The Supervisor's goals are centred on providing value and results to the fans. This can be seen through testing the randomness of the FIFA World Cup draw. The goal of this project is to determine the predictions of the simulated World Cup draw. Aim is to discover the fairness index for each team that qualified for the World Cup, based on the FIFA team rankings of the teams in the same grouping. This will allow us to determine that World Cup draw is based on chance or is done through an algorithm.
 \\ \\
-We will establish whether the fairness index affects the performance through multiple linear regression or non-parametric tests. This will increase the scope of this project as we will be able to produce efficient statistical results to ascertain the influences of chance in the FIFA world cup draw.
+We will establish whether the fairness index affects the performance through multiple linear regression or non-parametric tests. This will increase the scope of this project as we will be able to produce efficient statistical results to ascertain the influences of chance in the FIFA World Cup draw.
 \\ \\
-This can be further reinforced by simulating the world cup draws to test if any countries have a fairness index that is higher or lower than expected by chance alone.  This is to proclaim that certain countries will not have a favourable advantage while competing in the world cup.
+This can be further reinforced by simulating the World Cup draws to test if any countries have a fairness index that is higher or lower than expected by chance alone. This is to proclaim that certain countries will not have a favourable advantage while competing in the World Cup.
 
 
 \section{Hypothesis/question}
 
 \marginnote{This section is written by Shrey Parekh (18706941) }
 
-Is the FIFA world cup draw truly random? 
-               	
+Is the FIFA World Cup draw truly random? Can we test the randomization of the grouping?
+
 \subsection{Why Ask this Question? }
 
-This is a concern fueled by the excitement of the fans of FIFA world cup. This is important because it raises an interest about who will win this year’s trophy. It also generates a doubt in the mind of the fans if the draw of the teams competing against each other is a fair competition, or is it based on chance. They want to know the algorithm that is used to decide the matchups of the team.
+This is a concern fueled by the excitement of the fans of the FIFA world cup. This is important because it raises an interest about who will win this year’s trophy. It also generates doubt in the mind of fans as the draw based on chance is fair or is it biased to some teams. They want to know the algorithm that is used to decide the matchups of the team.
 \\ \\
-The value of answering this question is that it will remove the doubts from people’s minds. This will allow the fans to determine that the teams competing are fairly matched up. They will be able to then ascertain that the draws are random, and each team is given a fair chance to progress through the tournament. This will provide confidence for fans as the best performing team will win not any team based on chance.
+The value of answering this question is that it will remove the doubts from people’s minds. This will allow the fans to determine that the teams competing are fairly matched up. They will be able to then ascertain that the draws are random, and each team is given a fair chance to progress through the tournament. This will provide confidence for fans as the best performing team will win, not any team based on a biased draw.
+
 
 \subsection{Data Question}
 
-Can we predict accurately the winning team of the FIFA World Cup?
+Can we accurately predict the winning team of the FIFA World Cup?
 
 \subsection{Data}
 
-The data is sourced from the supervisor.
+The first part of the data is provided by the supervisor and the second part of the data the team must find the data set or manually scrape it from the websites to get World Cups with groups, rounds, teams participating and the result of the FIFA World Cup. This will then be merged with the existing data set that contains the points and teams from the world.
+
 
 \newpage
 
@@ -113,24 +118,43 @@ The data is sourced from the supervisor.
 
 The Data pipeline that was used to wrangle the raw data is below:
 \\ \\
-\includegraphics[height=7.5cm,width=\linewidth]{datascipipeline.PNG}
+\begin{figure}[h]
+	\includegraphics[height=7.5cm,width=\linewidth]{datascipipeline.PNG}
+	\caption{Data Science Pipeline}
+\end{figure}
 
 
 \section{Methodology}
 
 \marginnote{This section is written by Shrey Parekh (18706941) }
 
-The goal of our project is to create a fairness index for each team that qualified for the world cup based on team rankings. Test the performance being affected by index through multiple linear regression tests and non-parametric tests. Simulating the world cup draw to observe the draws are fair and not based on chance.
+The goal of our project is to create a fairness index for each team that qualified for the world cup based on team rankings in the groups. Test the performance being affected by index through multiple linear regression tests and non-parametric tests. Simulating the world cup draw to observe the draws are fair and not based on chance.
 \\ \\
-The steps to obtain results in this project required are:
+The measures that we need to take to conduct experiments to obtain precise results for this project are that we need to generate a fairness index from the points scored by the teams in their respective groups. This will be calculated using Python libraries such as NumPy and Pandas. Then we will look at the World Cup Result where the most successful team gets the highest amount. A predictive model will be generated based on the fairness index and World Cup Result. This will allow us to demonstrate that group rating and fairness index affects the winning team.
+\\ \\
+The calculation below is an example to use:
 
+
+\begin{equation*}
+lm(result \sim points+fairness+features+residuals)
+\end{equation*}
+
+After this step our goal is to test the linear regression model for randomisation of the grouping by simulating the process in which the team members are grouped based on their ranks and points. This is achieved by writing a Python script to assess the randomisation of groupings.
+\\ \\
+The detailed outline of the process to complete our project will be illustrated below:
 
 \begin{enumerate}
-\item Data gathering from the supervisor data was obtained that consisted of FIFA world cup matches from 1992 to 2021. The team needs to source another data set or will have to scrape data manually to get the rankings and merge it with the current data set. The two data sets will need to be merged.
-\item The next step consists of performing feature engineering that will allow us to predict the best team of winning the FIFA world cup.
-\item Exploratory Data Analysis on the data set to obtain insights from the world cup data.
+\item Data gathering from the supervisor data was obtained that consisted of FIFA World Cup matches from 1992 to 2021. The team needs to source another data set or will have to scrape data manually to get the groups, result of the World Cup, the rounds in the tournament and the teams that participated. The two data sets will need to be merged to conduct analysis.
+
+\item Performing feature engineering that will allow us to predict the best team of winning the FIFA World Cup. The features that will provide value for this project need to be selected such as groups, World Cup result, points.
+
+\item The feature engineering will allow to create the fairness index based on the points and groups.
+
+\item Exploratory Data Analysis on the data set to obtain insights from the World Cup data and analyse the trends of seeing the patterns in the winning team.
+
 \item Data preparation and pre-processing the data will be cleaned to filter out any missing data, corrupted data from the data set. This will enable the team to get accurate results in predicting the winning team.
-\item Then machine learning models will be applied to the data set
+
+\item Applying machine learning models and algorithms will be applied to the data set:
 	\begin{itemize}
 	\item Splitting the data set in proportions to 80 to 20 ratio.
 	\item Then will performing normalization
@@ -138,10 +162,22 @@ The steps to obtain results in this project required are:
 	\item Then we will predict the winning team
 	\item Plot the ROC curve
 	\end{itemize}
+\item Results and evaluation of the models. Evaluating our models to optimise the results of prediction and selecting the best model with the closest accuracy of predicting the winners of the World Cup.
+
+\item Conclusion and Recommendation for FIFA World Cup 2022.
 \end{enumerate}
 
+The models and machine learning algorithms that we will use to conduct multiple linear regression and non-parametric tests: logistic regression, Random Forest, Neural net, LightGBM, Naïve Bayes, and Support Vector Machines.
+
+\newpage
+
 \subsection{Block Diagram}
-\includegraphics[height=6cm,width=\linewidth]{methodflow.PNG}
+The below block diagram displays the methodology we will follow in this project:
+
+\begin{figure}[h]
+	\includegraphics[height=6cm,width=\linewidth]{methodflow.PNG}
+	\caption{Block Diagram by \citet{mrthlinh_2018}}
+\end{figure}
 
 
 \section{Expected outcomes}
@@ -156,6 +192,8 @@ The expected outcome at the end of this project would be to gain a deeper unders
 
 \marginnote{This section is written by Pratik Kulkarni (19400570) }
 
+Gantt Chart made for Research and Project Plan:
+
 \includegraphics[angle=90,height=20cm,width=\linewidth]{ProposalGantt.PNG}
 
 
@@ -163,7 +201,6 @@ The expected outcome at the end of this project would be to gain a deeper unders
 
 \bibliographystyle{plainnat}
 \bibliography{project}
-
 \end{document}
 
 %%% Local Variables:
