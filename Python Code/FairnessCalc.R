@@ -20,6 +20,12 @@ generateFairness <- function(year) {
   # Apply function to each team in the world cup
   teams$fairness = sapply(teams$name,fairness)
   
+  # Fill a column with the current year so it can be accessed
+  teams$year <- year
+
+  # Change order of cols
+  teams <- teams[, c(3,1,2)]
+  
   return(teams)
 }
 
@@ -29,4 +35,5 @@ fifa2002Fairness <- generateFairness(2002)
 fifa2006Fairness <- generateFairness(2006)
 fifa2010Fairness <- generateFairness(2010)
 fifa2014Fairness <- generateFairness(2014)
+fifa2018Fairness <- generateFairness(2018)
 
