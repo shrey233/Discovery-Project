@@ -1,0 +1,209 @@
+Year,Country,Fairness
+1994.0,Argentina,153
+1994.0,Belgium,148
+1994.0,Bolivia,164
+1994.0,Brazil,159
+1994.0,Bulgaria,156
+1994.0,Cameroon,182
+1994.0,Colombia,163
+1994.0,Germany,140
+1994.0,Greece,165
+1994.0,Italy,170
+1994.0,Mexico,177
+1994.0,Morocco,152
+1994.0,Netherlands,135
+1994.0,Nigeria,156
+1994.0,Norway,173
+1994.0,Republic of Ireland,173
+1994.0,Romania,159
+1994.0,Russia,172
+1994.0,Saudi Arabia,150
+1994.0,South Korea,160
+1994.0,Spain,139
+1994.0,Sweden,165
+1994.0,Switzerland,158
+1994.0,USA,168
+1998.0,Argentina,174
+1998.0,Belgium,181
+1998.0,Brazil,169
+1998.0,Cameroon,177
+1998.0,Chile,168
+1998.0,Colombia,178
+1998.0,England,167
+1998.0,France,162
+1998.0,Germany,174
+1998.0,Italy,162
+1998.0,Jamaica,188
+1998.0,Japan,185
+1998.0,Morocco,182
+1998.0,Netherlands,170
+1998.0,Nigeria,159
+1998.0,Paraguay,145
+1998.0,Romania,170
+1998.0,Saudi Arabia,178
+1998.0,Scotland,192
+1998.0,South Africa,177
+1998.0,South Korea,175
+1998.0,Spain,141
+1998.0,USA,186
+1998.0,Yugoslavia,176
+2002.0,Argentina,2025
+2002.0,Belgium,1886
+2002.0,Brazil,1893
+2002.0,Cameroon,2066
+2002.0,China PR,2237
+2002.0,Costa Rica,2097
+2002.0,Croatia,2071
+2002.0,Denmark,2076
+2002.0,Ecuador,2066
+2002.0,England,2042
+2002.0,France,1996
+2002.0,Germany,1990
+2002.0,Italy,1995
+2002.0,Japan,1918
+2002.0,Mexico,1968
+2002.0,Nigeria,2134
+2002.0,Paraguay,2035
+2002.0,Poland,2102
+2002.0,Portugal,2020
+2002.0,Republic of Ireland,2054
+2002.0,Russia,1918
+2002.0,Saudi Arabia,2143
+2002.0,Senegal,2137
+2002.0,Slovenia,2094
+2002.0,South Africa,2078
+2002.0,South Korea,2061
+2002.0,Spain,1935
+2002.0,Sweden,2127
+2002.0,Tunisia,1982
+2002.0,Turkey,2020
+2002.0,Uruguay,2140
+2002.0,USA,2007
+2006.0,Angola,2857
+2006.0,Argentina,2948
+2006.0,Australia,3176
+2006.0,Brazil,2291
+2006.0,Costa Rica,3006
+2006.0,Croatia,2931
+2006.0,Czech Republic,3168
+2006.0,Ecuador,2662
+2006.0,England,2063
+2006.0,France,2012
+2006.0,Germany,2114
+2006.0,Ghana,3542
+2006.0,Iran,2681
+2006.0,Italy,2798
+2006.0,Ivory Coast,3580
+2006.0,Japan,3239
+2006.0,Mexico,2514
+2006.0,Netherlands,3194
+2006.0,Paraguay,2677
+2006.0,Poland,2610
+2006.0,Portugal,2139
+2006.0,Saudi Arabia,2998
+2006.0,Serbia and Montenegro,3775
+2006.0,South Korea,2960
+2006.0,Spain,2325
+2006.0,Sweden,2464
+2006.0,Switzerland,2598
+2006.0,Togo,3035
+2006.0,Trinidad and Tobago,3062
+2006.0,Tunisia,2689
+2006.0,Ukraine,2425
+2006.0,USA,3566
+2010.0,Algeria,2958
+2010.0,Argentina,2388
+2010.0,Australia,3230
+2010.0,Brazil,2228
+2010.0,Cameroon,3289
+2010.0,Chile,3243
+2010.0,Denmark,3169
+2010.0,England,2450
+2010.0,France,2498
+2010.0,Germany,2561
+2010.0,Ghana,3138
+2010.0,Greece,2710
+2010.0,Honduras,3677
+2010.0,Italy,2192
+2010.0,Ivory Coast,2828
+2010.0,Japan,3183
+2010.0,Korea DPR,3382
+2010.0,Mexico,2570
+2010.0,Netherlands,2236
+2010.0,New Zealand,2651
+2010.0,Nigeria,3001
+2010.0,Paraguay,2325
+2010.0,Portugal,2584
+2010.0,Serbia,3209
+2010.0,Slovakia,2303
+2010.0,Slovenia,2749
+2010.0,South Africa,2815
+2010.0,South Korea,3079
+2010.0,Spain,2306
+2010.0,Switzerland,3353
+2010.0,Uruguay,2212
+2010.0,USA,2778
+2014.0,Algeria,2687
+2014.0,Argentina,2053
+2014.0,Australia,3538
+2014.0,Belgium,2218
+2014.0,Bosnia and Herzegovina,2774
+2014.0,Brazil,2524
+2014.0,Cameroon,3175
+2014.0,Chile,2840
+2014.0,Colombia,2252
+2014.0,Costa Rica,3270
+2014.0,Croatia,2894
+2014.0,Ecuador,2712
+2014.0,England,3235
+2014.0,France,2404
+2014.0,Germany,2710
+2014.0,Ghana,3721
+2014.0,Greece,2846
+2014.0,Honduras,3103
+2014.0,Iran,3011
+2014.0,Italy,3164
+2014.0,Ivory Coast,2869
+2014.0,Japan,3139
+2014.0,Mexico,2927
+2014.0,Netherlands,2488
+2014.0,Nigeria,2935
+2014.0,Portugal,3275
+2014.0,Russia,2846
+2014.0,South Korea,3154
+2014.0,Spain,2720
+2014.0,Switzerland,2473
+2014.0,Uruguay,3132
+2014.0,USA,3599
+2018.0,Argentina,4513
+2018.0,Australia,4833
+2018.0,Belgium,4450
+2018.0,Brazil,4544
+2018.0,Colombia,4437
+2018.0,Costa Rica,4756
+2018.0,Croatia,4461
+2018.0,Denmark,4680
+2018.0,Egypt,4368
+2018.0,England,4546
+2018.0,France,4543
+2018.0,Germany,4505
+2018.0,Iceland,4643
+2018.0,Iran,4645
+2018.0,Japan,4598
+2018.0,Mexico,4523
+2018.0,Morocco,4686
+2018.0,Nigeria,4668
+2018.0,Panama,4851
+2018.0,Peru,4751
+2018.0,Poland,4494
+2018.0,Portugal,4512
+2018.0,Russia,4337
+2018.0,Saudi Arabia,4426
+2018.0,Senegal,4507
+2018.0,Serbia,4739
+2018.0,South Korea,4658
+2018.0,Spain,4535
+2018.0,Sweden,4503
+2018.0,Switzerland,4621
+2018.0,Tunisia,4684
+2018.0,Uruguay,4152

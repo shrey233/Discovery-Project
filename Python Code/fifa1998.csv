@@ -1,0 +1,65 @@
+Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Half-time Home Goals,Half-time Away Goals,RoundID,Home Team Initials,Away Team Initials,home_rank,home_total_points,home_previous_points,home_rank_change,away_rank,away_total_points,away_previous_points,away_rank_change
+1998.0,Group A,Brazil,2.0,1.0,Scotland, ,1.0,1.0,1014.0,BRA,SCO,1,73,74,0,38,50,50,2
+1998.0,Group A,Morocco,2.0,2.0,Norway, ,1.0,1.0,1014.0,MAR,NOR,13,60,60,0,14,59,59,0
+1998.0,Group B,Italy,2.0,2.0,Chile, ,1.0,1.0,1014.0,ITA,CHI,7,64,64,1,16,58,58,0
+1998.0,Group B,Cameroon,1.0,1.0,Austria, ,0.0,0.0,1014.0,CMR,AUT,41,49,48,2,22,55,55,1
+1998.0,Group D,Paraguay,0.0,0.0,Bulgaria, ,0.0,0.0,1014.0,PAR,BUL,25,55,55,1,49,45,46,3
+1998.0,Group C,Saudi Arabia,0.0,1.0,Denmark, ,0.0,0.0,1014.0,KSA,DEN,30,53,53,3,19,55,55,1
+1998.0,Group C,France,3.0,0.0,South Africa, ,1.0,0.0,1014.0,FRA,RSA,2,69,69,0,26,54,53,2
+1998.0,Group D,Spain,2.0,3.0,Nigeria, ,1.0,1.0,1014.0,ESP,NGA,15,59,58,0,65,41,41,0
+1998.0,Group E,South Korea,1.0,3.0,Mexico, ,1.0,0.0,1014.0,KOR,MEX,17,57,55,2,10,62,62,0
+1998.0,Group E,Netherlands,0.0,0.0,Belgium, ,0.0,0.0,1014.0,NED,BEL,11,62,62,2,35,51,52,1
+1998.0,Group H,Argentina,1.0,0.0,Japan, ,1.0,0.0,1014.0,ARG,JPN,5,66,66,0,20,55,52,10
+1998.0,Group F,Yugoslavia,1.0,0.0,Iran, ,0.0,0.0,1014.0,YUG,IRN,6,65,64,1,27,54,46,17
+1998.0,Group H,Jamaica,1.0,3.0,Croatia, ,1.0,1.0,1014.0,JAM,CRO,33,52,52,0,4,67,67,0
+1998.0,Group G,England,2.0,0.0,Tunisia, ,1.0,0.0,1014.0,ENG,TUN,9,63,62,2,21,55,55,1
+1998.0,Group G,Romania,1.0,0.0,Colombia, ,1.0,0.0,1014.0,ROU,COL,12,60,60,0,34,52,52,2
+1998.0,Group F,Germany,2.0,0.0,USA, ,1.0,0.0,1014.0,GER,USA,3,67,67,0,23,55,55,1
+1998.0,Group A,Scotland,1.0,1.0,Norway, ,0.0,0.0,1014.0,SCO,NOR,38,50,50,2,14,59,59,0
+1998.0,Group A,Brazil,3.0,0.0,Morocco, ,2.0,0.0,1014.0,BRA,MAR,1,73,74,0,13,60,60,0
+1998.0,Group B,Chile,1.0,1.0,Austria, ,0.0,0.0,1014.0,CHI,AUT,16,58,58,0,22,55,55,1
+1998.0,Group B,Italy,3.0,0.0,Cameroon, ,1.0,0.0,1014.0,ITA,CMR,7,64,64,1,41,49,48,2
+1998.0,Group C,South Africa,1.0,1.0,Denmark, ,0.0,1.0,1014.0,RSA,DEN,26,54,53,2,19,55,55,1
+1998.0,Group C,France,4.0,0.0,Saudi Arabia, ,1.0,0.0,1014.0,FRA,KSA,2,69,69,0,30,53,53,3
+1998.0,Group D,Nigeria,1.0,0.0,Bulgaria, ,1.0,0.0,1014.0,NGA,BUL,65,41,41,0,49,45,46,3
+1998.0,Group D,Spain,0.0,0.0,Paraguay, ,0.0,0.0,1014.0,ESP,PAR,15,59,58,0,25,55,55,1
+1998.0,Group H,Japan,0.0,1.0,Croatia, ,0.0,0.0,1014.0,JPN,CRO,20,55,52,10,4,67,67,0
+1998.0,Group E,Belgium,2.0,2.0,Mexico, ,1.0,0.0,1014.0,BEL,MEX,35,51,52,1,10,62,62,0
+1998.0,Group E,Netherlands,5.0,0.0,South Korea, ,2.0,0.0,1014.0,NED,KOR,11,62,62,2,17,57,55,2
+1998.0,Group F,Germany,2.0,2.0,Yugoslavia, ,0.0,1.0,1014.0,GER,YUG,3,67,67,0,6,65,64,1
+1998.0,Group H,Argentina,5.0,0.0,Jamaica, ,1.0,0.0,1014.0,ARG,JAM,5,66,66,0,33,52,52,0
+1998.0,Group F,USA,1.0,2.0,Iran, ,0.0,1.0,1014.0,USA,IRN,23,55,55,1,27,54,46,17
+1998.0,Group G,Colombia,1.0,0.0,Tunisia, ,0.0,0.0,1014.0,COL,TUN,34,52,52,2,21,55,55,1
+1998.0,Group G,Romania,2.0,1.0,England, ,0.0,0.0,1014.0,ROU,ENG,12,60,60,0,9,63,62,2
+1998.0,Group B,Italy,2.0,1.0,Austria, ,0.0,0.0,1014.0,ITA,AUT,7,64,64,1,22,55,55,1
+1998.0,Group B,Chile,1.0,1.0,Cameroon, ,1.0,0.0,1014.0,CHI,CMR,16,58,58,0,41,49,48,2
+1998.0,Group A,Scotland,0.0,3.0,Morocco, ,0.0,1.0,1014.0,SCO,MAR,38,50,50,2,13,60,60,0
+1998.0,Group A,Brazil,1.0,2.0,Norway, ,0.0,0.0,1014.0,BRA,NOR,1,73,74,0,14,59,59,0
+1998.0,Group C,France,2.0,1.0,Denmark, ,1.0,1.0,1014.0,FRA,DEN,2,69,69,0,19,55,55,1
+1998.0,Group C,South Africa,2.0,2.0,Saudi Arabia, ,1.0,1.0,1014.0,RSA,KSA,26,54,53,2,30,53,53,3
+1998.0,Group D,Spain,6.0,1.0,Bulgaria, ,2.0,0.0,1014.0,ESP,BUL,15,59,58,0,49,45,46,3
+1998.0,Group D,Nigeria,1.0,3.0,Paraguay, ,1.0,1.0,1014.0,NGA,PAR,65,41,41,0,25,55,55,1
+1998.0,Group E,Belgium,1.0,1.0,South Korea, ,1.0,0.0,1014.0,BEL,KOR,35,51,52,1,17,57,55,2
+1998.0,Group E,Netherlands,2.0,2.0,Mexico, ,2.0,0.0,1014.0,NED,MEX,11,62,62,2,10,62,62,0
+1998.0,Group F,Germany,2.0,0.0,Iran, ,0.0,0.0,1014.0,GER,IRN,3,67,67,0,27,54,46,17
+1998.0,Group F,USA,0.0,1.0,Yugoslavia, ,0.0,1.0,1014.0,USA,YUG,23,55,55,1,6,65,64,1
+1998.0,Group H,Japan,1.0,2.0,Jamaica, ,0.0,1.0,1014.0,JPN,JAM,20,55,52,10,33,52,52,0
+1998.0,Group H,Argentina,1.0,0.0,Croatia, ,1.0,0.0,1014.0,ARG,CRO,5,66,66,0,4,67,67,0
+1998.0,Group G,Romania,1.0,1.0,Tunisia, ,0.0,1.0,1014.0,ROU,TUN,12,60,60,0,21,55,55,1
+1998.0,Group G,Colombia,0.0,2.0,England, ,0.0,2.0,1014.0,COL,ENG,34,52,52,2,9,63,62,2
+1998.0,Round of 16,Italy,1.0,0.0,Norway, ,1.0,0.0,1024.0,ITA,NOR,7,64,64,1,14,59,59,0
+1998.0,Round of 16,Brazil,4.0,1.0,Chile, ,3.0,0.0,1024.0,BRA,CHI,1,73,74,0,16,58,58,0
+1998.0,Round of 16,France,1.0,0.0,Paraguay,France win after extra time ,0.0,0.0,1024.0,FRA,PAR,2,69,69,0,25,55,55,1
+1998.0,Round of 16,Nigeria,1.0,4.0,Denmark, ,0.0,2.0,1024.0,NGA,DEN,65,41,41,0,19,55,55,1
+1998.0,Round of 16,Germany,2.0,1.0,Mexico, ,0.0,0.0,1024.0,GER,MEX,3,67,67,0,10,62,62,0
+1998.0,Round of 16,Netherlands,2.0,1.0,Yugoslavia, ,1.0,0.0,1024.0,NED,YUG,11,62,62,2,6,65,64,1
+1998.0,Round of 16,Romania,0.0,1.0,Croatia, ,0.0,1.0,1024.0,ROU,CRO,12,60,60,0,4,67,67,0
+1998.0,Round of 16,Argentina,2.0,2.0,England,Argentina win on penalties (4 - 3) ,0.0,0.0,1024.0,ARG,ENG,5,66,66,0,9,63,62,2
+1998.0,Quarter-finals,Italy,0.0,0.0,France,France win on penalties (3 - 4) ,0.0,0.0,1025.0,ITA,FRA,7,64,64,1,2,69,69,0
+1998.0,Quarter-finals,Brazil,3.0,2.0,Denmark, ,2.0,1.0,1025.0,BRA,DEN,1,73,74,0,19,55,55,1
+1998.0,Quarter-finals,Netherlands,2.0,1.0,Argentina, ,1.0,1.0,1025.0,NED,ARG,11,62,62,2,5,66,66,0
+1998.0,Quarter-finals,Germany,0.0,3.0,Croatia, ,0.0,1.0,1025.0,GER,CRO,3,67,67,0,4,67,67,0
+1998.0,Semi-finals,Brazil,1.0,1.0,Netherlands,Brazil win on penalties (4 - 2) ,0.0,0.0,1026.0,BRA,NED,1,73,74,0,11,62,62,2
+1998.0,Semi-finals,France,2.0,1.0,Croatia, ,0.0,0.0,1026.0,FRA,CRO,2,69,69,0,4,67,67,0
+1998.0,Match for third place,Netherlands,1.0,2.0,Croatia, ,1.0,2.0,1028.0,NED,CRO,11,62,62,2,4,67,67,0
+1998.0,Final,Brazil,0.0,3.0,France, ,0.0,2.0,1027.0,BRA,FRA,1,73,74,0,2,69,69,0

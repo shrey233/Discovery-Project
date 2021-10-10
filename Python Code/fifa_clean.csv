@@ -1,5 +1,5 @@
 Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Half-time Home Goals,Half-time Away Goals,RoundID,Home Team Initials,Away Team Initials
-1994.0,Group C,Spain,2.0,2.0,Korea Republic, ,0.0,0.0,337.0,ESP,KOR
+1994.0,Group C,Spain,2.0,2.0,South Korea, ,0.0,0.0,337.0,ESP,KOR
 1994.0,Group C,Germany,1.0,0.0,Bolivia, ,0.0,0.0,337.0,GER,BOL
 1994.0,Group A,USA,1.0,1.0,Switzerland, ,1.0,1.0,337.0,USA,SUI
 1994.0,Group E,Italy,0.0,1.0,Republic of Ireland, ,0.0,1.0,337.0,ITA,IRL
@@ -15,7 +15,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 1994.0,Group A,Romania,1.0,4.0,Switzerland, ,1.0,1.0,337.0,ROU,SUI
 1994.0,Group A,USA,2.0,1.0,Colombia, ,1.0,0.0,337.0,USA,COL
 1994.0,Group E,Italy,1.0,0.0,Norway, ,0.0,0.0,337.0,ITA,NOR
-1994.0,Group C,Korea Republic,0.0,0.0,Bolivia, ,0.0,0.0,337.0,KOR,BOL
+1994.0,Group C,South Korea,0.0,0.0,Bolivia, ,0.0,0.0,337.0,KOR,BOL
 1994.0,Group E,Mexico,2.0,1.0,Republic of Ireland, ,1.0,0.0,337.0,MEX,IRL
 1994.0,Group B,Sweden,3.0,1.0,Russia, ,1.0,1.0,337.0,SWE,RUS
 1994.0,Group B,Brazil,3.0,0.0,Cameroon, ,1.0,0.0,337.0,BRA,CMR
@@ -25,7 +25,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 1994.0,Group D,Bulgaria,4.0,0.0,Greece, ,1.0,0.0,337.0,BUL,GRE
 1994.0,Group A,USA,0.0,1.0,Romania, ,0.0,1.0,337.0,USA,ROU
 1994.0,Group A,Switzerland,0.0,2.0,Colombia, ,0.0,1.0,337.0,SUI,COL
-1994.0,Group C,Germany,3.0,2.0,Korea Republic, ,3.0,0.0,337.0,GER,KOR
+1994.0,Group C,Germany,3.0,2.0,South Korea, ,3.0,0.0,337.0,GER,KOR
 1994.0,Group C,Bolivia,1.0,3.0,Spain, ,0.0,1.0,337.0,BOL,ESP
 1994.0,Group E,Republic of Ireland,0.0,0.0,Norway, ,0.0,0.0,337.0,IRL,NOR
 1994.0,Group B,Brazil,1.0,1.0,Sweden, ,0.0,1.0,337.0,BRA,SWE
@@ -59,7 +59,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 1998.0,Group C,Saudi Arabia,0.0,1.0,Denmark, ,0.0,0.0,1014.0,KSA,DEN
 1998.0,Group C,France,3.0,0.0,South Africa, ,1.0,0.0,1014.0,FRA,RSA
 1998.0,Group D,Spain,2.0,3.0,Nigeria, ,1.0,1.0,1014.0,ESP,NGA
-1998.0,Group E,Korea Republic,1.0,3.0,Mexico, ,1.0,0.0,1014.0,KOR,MEX
+1998.0,Group E,South Korea,1.0,3.0,Mexico, ,1.0,0.0,1014.0,KOR,MEX
 1998.0,Group E,Netherlands,0.0,0.0,Belgium, ,0.0,0.0,1014.0,NED,BEL
 1998.0,Group H,Argentina,1.0,0.0,Japan, ,1.0,0.0,1014.0,ARG,JPN
 1998.0,Group F,Yugoslavia,1.0,0.0,Iran, ,0.0,0.0,1014.0,YUG,IRN
@@ -77,7 +77,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 1998.0,Group D,Spain,0.0,0.0,Paraguay, ,0.0,0.0,1014.0,ESP,PAR
 1998.0,Group H,Japan,0.0,1.0,Croatia, ,0.0,0.0,1014.0,JPN,CRO
 1998.0,Group E,Belgium,2.0,2.0,Mexico, ,1.0,0.0,1014.0,BEL,MEX
-1998.0,Group E,Netherlands,5.0,0.0,Korea Republic, ,2.0,0.0,1014.0,NED,KOR
+1998.0,Group E,Netherlands,5.0,0.0,South Korea, ,2.0,0.0,1014.0,NED,KOR
 1998.0,Group F,Germany,2.0,2.0,Yugoslavia, ,0.0,1.0,1014.0,GER,YUG
 1998.0,Group H,Argentina,5.0,0.0,Jamaica, ,1.0,0.0,1014.0,ARG,JAM
 1998.0,Group F,USA,1.0,2.0,Iran, ,0.0,1.0,1014.0,USA,IRN
@@ -91,7 +91,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 1998.0,Group C,South Africa,2.0,2.0,Saudi Arabia, ,1.0,1.0,1014.0,RSA,KSA
 1998.0,Group D,Spain,6.0,1.0,Bulgaria, ,2.0,0.0,1014.0,ESP,BUL
 1998.0,Group D,Nigeria,1.0,3.0,Paraguay, ,1.0,1.0,1014.0,NGA,PAR
-1998.0,Group E,Belgium,1.0,1.0,Korea Republic, ,1.0,0.0,1014.0,BEL,KOR
+1998.0,Group E,Belgium,1.0,1.0,South Korea, ,1.0,0.0,1014.0,BEL,KOR
 1998.0,Group E,Netherlands,2.0,2.0,Mexico, ,2.0,0.0,1014.0,NED,MEX
 1998.0,Group F,Germany,2.0,0.0,Iran, ,0.0,0.0,1014.0,GER,IRN
 1998.0,Group F,USA,0.0,1.0,Yugoslavia, ,0.0,1.0,1014.0,USA,YUG
@@ -128,7 +128,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2002.0,Group G,Croatia,0.0,1.0,Mexico, ,0.0,0.0,43950100.0,CRO,MEX
 2002.0,Group C,China PR,0.0,2.0,Costa Rica, ,0.0,0.0,43950100.0,CHN,CRC
 2002.0,Group H,Japan,2.0,2.0,Belgium, ,0.0,0.0,43950100.0,JPN,BEL
-2002.0,Group D,Korea Republic,2.0,0.0,Poland, ,1.0,0.0,43950100.0,KOR,POL
+2002.0,Group D,South Korea,2.0,0.0,Poland, ,1.0,0.0,43950100.0,KOR,POL
 2002.0,Group H,Russia,2.0,0.0,Tunisia, ,0.0,0.0,43950100.0,RUS,TUN
 2002.0,Group D,USA,3.0,2.0,Portugal, ,3.0,1.0,43950100.0,USA,POR
 2002.0,Group E,Germany,1.0,1.0,Republic of Ireland, ,1.0,0.0,43950100.0,GER,IRL
@@ -144,7 +144,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2002.0,Group C,Costa Rica,1.0,1.0,Turkey, ,0.0,0.0,43950100.0,CRC,TUR
 2002.0,Group H,Japan,1.0,0.0,Russia, ,0.0,0.0,43950100.0,JPN,RUS
 2002.0,Group G,Mexico,2.0,1.0,Ecuador, ,1.0,1.0,43950100.0,MEX,ECU
-2002.0,Group D,Korea Republic,1.0,1.0,USA, ,0.0,1.0,43950100.0,KOR,USA
+2002.0,Group D,South Korea,1.0,1.0,USA, ,0.0,1.0,43950100.0,KOR,USA
 2002.0,Group D,Portugal,4.0,0.0,Poland, ,1.0,0.0,43950100.0,POR,POL
 2002.0,Group H,Tunisia,1.0,1.0,Belgium, ,1.0,1.0,43950100.0,TUN,BEL
 2002.0,Group A,Denmark,2.0,0.0,France, ,1.0,0.0,43950100.0,DEN,FRA
@@ -160,7 +160,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2002.0,Group G,Ecuador,1.0,0.0,Croatia, ,0.0,0.0,43950100.0,ECU,CRO
 2002.0,Group G,Mexico,1.0,1.0,Italy, ,1.0,0.0,43950100.0,MEX,ITA
 2002.0,Group H,Tunisia,0.0,2.0,Japan, ,0.0,0.0,43950100.0,TUN,JPN
-2002.0,Group D,Portugal,0.0,1.0,Korea Republic, ,0.0,0.0,43950100.0,POR,KOR
+2002.0,Group D,Portugal,0.0,1.0,South Korea, ,0.0,0.0,43950100.0,POR,KOR
 2002.0,Group D,Poland,3.0,1.0,USA, ,2.0,0.0,43950100.0,POL,USA
 2002.0,Group H,Belgium,3.0,2.0,Russia, ,1.0,0.0,43950100.0,BEL,RUS
 2002.0,Round of 16,Denmark,0.0,3.0,England, ,0.0,3.0,43950200.0,DEN,ENG
@@ -170,14 +170,14 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2002.0,Round of 16,Brazil,2.0,0.0,Belgium, ,0.0,0.0,43950200.0,BRA,BEL
 2002.0,Round of 16,Mexico,0.0,2.0,USA, ,0.0,1.0,43950200.0,MEX,USA
 2002.0,Round of 16,Japan,0.0,1.0,Turkey, ,0.0,1.0,43950200.0,JPN,TUR
-2002.0,Round of 16,Korea Republic,2.0,1.0,Italy,Win on Golden Goal ,0.0,0.0,43950200.0,KOR,ITA
+2002.0,Round of 16,South Korea,2.0,1.0,Italy,Win on Golden Goal ,0.0,0.0,43950200.0,KOR,ITA
 2002.0,Quarter-finals,England,1.0,2.0,Brazil, ,1.0,1.0,43950300.0,ENG,BRA
 2002.0,Quarter-finals,Germany,1.0,0.0,USA, ,1.0,0.0,43950300.0,GER,USA
 2002.0,Quarter-finals,Senegal,0.0,1.0,Turkey,Win on Golden Goal ,0.0,0.0,43950300.0,SEN,TUR
-2002.0,Quarter-finals,Spain,0.0,0.0,Korea Republic,Korea Republic win on penalties (3 - 5) ,0.0,0.0,43950300.0,ESP,KOR
-2002.0,Semi-finals,Germany,1.0,0.0,Korea Republic, ,0.0,0.0,43950400.0,GER,KOR
+2002.0,Quarter-finals,Spain,0.0,0.0,South Korea,Korea Republic win on penalties (3 - 5) ,0.0,0.0,43950300.0,ESP,KOR
+2002.0,Semi-finals,Germany,1.0,0.0,South Korea, ,0.0,0.0,43950400.0,GER,KOR
 2002.0,Semi-finals,Brazil,1.0,0.0,Turkey, ,0.0,0.0,43950400.0,BRA,TUR
-2002.0,Third place,Korea Republic,2.0,3.0,Turkey, ,1.0,3.0,43950500.0,KOR,TUR
+2002.0,Third place,South Korea,2.0,3.0,Turkey, ,1.0,3.0,43950500.0,KOR,TUR
 2002.0,Final,Germany,0.0,2.0,Brazil, ,0.0,0.0,43950600.0,GER,BRA
 2006.0,Group A,Germany,4.0,2.0,Costa Rica, ,2.0,1.0,97410100.0,GER,CRC
 2006.0,Group A,Poland,0.0,2.0,Ecuador, ,0.0,1.0,97410100.0,POL,ECU
@@ -190,7 +190,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2006.0,Group F,Australia,3.0,1.0,Japan, ,0.0,1.0,97410100.0,AUS,JPN
 2006.0,Group E,USA,0.0,3.0,Czech Republic, ,0.0,2.0,97410100.0,USA,CZE
 2006.0,Group E,Italy,2.0,0.0,Ghana, ,1.0,0.0,97410100.0,ITA,GHA
-2006.0,Group G,Korea Republic,2.0,1.0,Togo, ,0.0,1.0,97410100.0,KOR,TOG
+2006.0,Group G,South Korea,2.0,1.0,Togo, ,0.0,1.0,97410100.0,KOR,TOG
 2006.0,Group G,France,0.0,0.0,Switzerland, ,0.0,0.0,97410100.0,FRA,SUI
 2006.0,Group F,Brazil,1.0,0.0,Croatia, ,1.0,0.0,97410100.0,BRA,CRO
 2006.0,Group H,Spain,4.0,0.0,Ukraine, ,2.0,0.0,97410100.0,ESP,UKR
@@ -202,12 +202,12 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2006.0,Group C,Argentina,6.0,0.0,Serbia and Montenegro, ,3.0,0.0,97410100.0,ARG,SCG
 2006.0,Group C,Netherlands,2.0,1.0,Ivory Coast, ,2.0,1.0,97410100.0,NED,CIV
 2006.0,Group D,Mexico,0.0,0.0,Angola, ,0.0,0.0,97410100.0,MEX,ANG
-2006.0,Group D,Portugal,2.0,0.0,IR Iran, ,0.0,0.0,97410100.0,POR,IRN
+2006.0,Group D,Portugal,2.0,0.0,Iran, ,0.0,0.0,97410100.0,POR,IRN
 2006.0,Group E,Czech Republic,0.0,2.0,Ghana, ,0.0,1.0,97410100.0,CZE,GHA
 2006.0,Group E,Italy,1.0,1.0,USA, ,1.0,1.0,97410100.0,ITA,USA
 2006.0,Group F,Japan,0.0,0.0,Croatia, ,0.0,0.0,97410100.0,JPN,CRO
 2006.0,Group F,Brazil,2.0,0.0,Australia, ,0.0,0.0,97410100.0,BRA,AUS
-2006.0,Group G,France,1.0,1.0,Korea Republic, ,1.0,0.0,97410100.0,FRA,KOR
+2006.0,Group G,France,1.0,1.0,South Korea, ,1.0,0.0,97410100.0,FRA,KOR
 2006.0,Group G,Togo,0.0,2.0,Switzerland, ,0.0,1.0,97410100.0,TOG,SUI
 2006.0,Group H,Saudi Arabia,0.0,4.0,Ukraine, ,0.0,2.0,97410100.0,KSA,UKR
 2006.0,Group H,Spain,3.0,1.0,Tunisia, ,0.0,1.0,97410100.0,ESP,TUN
@@ -226,7 +226,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2006.0,Group H,Ukraine,1.0,0.0,Tunisia, ,0.0,0.0,97410100.0,UKR,TUN
 2006.0,Group H,Saudi Arabia,0.0,1.0,Spain, ,0.0,1.0,97410100.0,KSA,ESP
 2006.0,Group G,Togo,0.0,2.0,France, ,0.0,0.0,97410100.0,TOG,FRA
-2006.0,Group G,Switzerland,2.0,0.0,Korea Republic, ,1.0,0.0,97410100.0,SUI,KOR
+2006.0,Group G,Switzerland,2.0,0.0,South Korea, ,1.0,0.0,97410100.0,SUI,KOR
 2006.0,Round of 16,Germany,2.0,0.0,Sweden, ,2.0,0.0,97410200.0,GER,SWE
 2006.0,Round of 16,Argentina,2.0,1.0,Mexico,Argentina win after extra time ,0.0,0.0,97410200.0,ARG,MEX
 2006.0,Round of 16,England,1.0,0.0,Ecuador, ,0.0,0.0,97410200.0,ENG,ECU
@@ -245,7 +245,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2006.0,Final,Italy,1.0,1.0,France,Italy win on penalties (5 - 3) ,0.0,0.0,97410600.0,ITA,FRA
 2010.0,Group A,South Africa,1.0,1.0,Mexico, ,0.0,0.0,249722.0,RSA,MEX
 2010.0,Group A,Uruguay,0.0,0.0,France, ,0.0,0.0,249722.0,URU,FRA
-2010.0,Group B,Korea Republic,2.0,0.0,Greece, ,1.0,0.0,249722.0,KOR,GRE
+2010.0,Group B,South Korea,2.0,0.0,Greece, ,1.0,0.0,249722.0,KOR,GRE
 2010.0,Group B,Argentina,1.0,0.0,Nigeria, ,1.0,0.0,249722.0,ARG,NGA
 2010.0,Group C,England,1.0,1.0,USA, ,1.0,1.0,249722.0,ENG,USA
 2010.0,Group C,Algeria,0.0,1.0,Slovenia, ,0.0,0.0,249722.0,ALG,SVN
@@ -260,7 +260,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2010.0,Group H,Honduras,0.0,1.0,Chile, ,0.0,1.0,249722.0,HON,CHI
 2010.0,Group H,Spain,0.0,1.0,Switzerland, ,0.0,0.0,249722.0,ESP,SUI
 2010.0,Group A,South Africa,0.0,3.0,Uruguay, ,0.0,1.0,249722.0,RSA,URU
-2010.0,Group B,Argentina,4.0,1.0,Korea Republic, ,2.0,1.0,249722.0,ARG,KOR
+2010.0,Group B,Argentina,4.0,1.0,South Korea, ,2.0,1.0,249722.0,ARG,KOR
 2010.0,Group B,Greece,2.0,1.0,Nigeria, ,1.0,1.0,249722.0,GRE,NGA
 2010.0,Group A,France,0.0,2.0,Mexico, ,0.0,0.0,249722.0,FRA,MEX
 2010.0,Group D,Germany,0.0,1.0,Serbia, ,0.0,1.0,249722.0,GER,SRB
@@ -277,7 +277,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2010.0,Group H,Spain,2.0,0.0,Honduras, ,1.0,0.0,249722.0,ESP,HON
 2010.0,Group A,Mexico,0.0,1.0,Uruguay, ,0.0,1.0,249722.0,MEX,URU
 2010.0,Group A,France,1.0,2.0,South Africa, ,0.0,2.0,249722.0,FRA,RSA
-2010.0,Group B,Nigeria,2.0,2.0,Korea Republic, ,1.0,1.0,249722.0,NGA,KOR
+2010.0,Group B,Nigeria,2.0,2.0,South Korea, ,1.0,1.0,249722.0,NGA,KOR
 2010.0,Group B,Greece,0.0,2.0,Argentina, ,0.0,0.0,249722.0,GRE,ARG
 2010.0,Group C,Slovenia,0.0,1.0,England, ,0.0,1.0,249722.0,SVN,ENG
 2010.0,Group C,USA,1.0,0.0,Algeria, ,0.0,0.0,249722.0,USA,ALG
@@ -291,7 +291,7 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2010.0,Group G,Korea DPR,0.0,3.0,Ivory Coast, ,0.0,2.0,249722.0,PRK,CIV
 2010.0,Group H,Chile,1.0,2.0,Spain, ,0.0,2.0,249722.0,CHI,ESP
 2010.0,Group H,Switzerland,0.0,0.0,Honduras, ,0.0,0.0,249722.0,SUI,HON
-2010.0,Round of 16,Uruguay,2.0,1.0,Korea Republic, ,1.0,0.0,249717.0,URU,KOR
+2010.0,Round of 16,Uruguay,2.0,1.0,South Korea, ,1.0,0.0,249717.0,URU,KOR
 2010.0,Round of 16,USA,1.0,2.0,Ghana,Ghana win after extra time ,0.0,0.0,249717.0,USA,GHA
 2010.0,Round of 16,Germany,4.0,1.0,England, ,2.0,1.0,249717.0,GER,ENG
 2010.0,Round of 16,Argentina,3.0,1.0,Mexico, ,2.0,0.0,249717.0,ARG,MEX
@@ -319,11 +319,11 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2014.0,Group E,France,3.0,0.0,Honduras, ,1.0,0.0,255931.0,FRA,HON
 2014.0,Group F,Argentina,2.0,1.0,Bosnia and Herzegovina, ,1.0,0.0,255931.0,ARG,BIH
 2014.0,Group G,Germany,4.0,0.0,Portugal, ,3.0,0.0,255931.0,GER,POR
-2014.0,Group F,IR Iran,0.0,0.0,Nigeria, ,0.0,0.0,255931.0,IRN,NGA
+2014.0,Group F,Iran,0.0,0.0,Nigeria, ,0.0,0.0,255931.0,IRN,NGA
 2014.0,Group G,Ghana,1.0,2.0,USA, ,0.0,1.0,255931.0,GHA,USA
 2014.0,Group H,Belgium,2.0,1.0,Algeria, ,0.0,1.0,255931.0,BEL,ALG
 2014.0,Group A,Brazil,0.0,0.0,Mexico, ,0.0,0.0,255931.0,BRA,MEX
-2014.0,Group H,Russia,1.0,1.0,Korea Republic, ,0.0,0.0,255931.0,RUS,KOR
+2014.0,Group H,Russia,1.0,1.0,South Korea, ,0.0,0.0,255931.0,RUS,KOR
 2014.0,Group B,Australia,2.0,3.0,Netherlands, ,1.0,1.0,255931.0,AUS,NED
 2014.0,Group B,Spain,0.0,2.0,Chile, ,0.0,2.0,255931.0,ESP,CHI
 2014.0,Group A,Cameroon,0.0,4.0,Croatia, ,0.0,1.0,255931.0,CMR,CRO
@@ -333,11 +333,11 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2014.0,Group D,Italy,0.0,1.0,Costa Rica, ,0.0,1.0,255931.0,ITA,CRC
 2014.0,Group E,Switzerland,2.0,5.0,France, ,0.0,3.0,255931.0,SUI,FRA
 2014.0,Group E,Honduras,1.0,2.0,Ecuador, ,1.0,1.0,255931.0,HON,ECU
-2014.0,Group F,Argentina,1.0,0.0,IR Iran, ,0.0,0.0,255931.0,ARG,IRN
+2014.0,Group F,Argentina,1.0,0.0,Iran, ,0.0,0.0,255931.0,ARG,IRN
 2014.0,Group G,Germany,2.0,2.0,Ghana, ,0.0,0.0,255931.0,GER,GHA
 2014.0,Group F,Nigeria,1.0,0.0,Bosnia and Herzegovina, ,1.0,0.0,255931.0,NGA,BIH
 2014.0,Group H,Belgium,1.0,0.0,Russia, ,0.0,0.0,255931.0,BEL,RUS
-2014.0,Group H,Korea Republic,2.0,4.0,Algeria, ,0.0,3.0,255931.0,KOR,ALG
+2014.0,Group H,South Korea,2.0,4.0,Algeria, ,0.0,3.0,255931.0,KOR,ALG
 2014.0,Group G,USA,2.0,2.0,Portugal, ,0.0,1.0,255931.0,USA,POR
 2014.0,Group B,Australia,0.0,3.0,Spain, ,0.0,1.0,255931.0,AUS,ESP
 2014.0,Group B,Netherlands,2.0,0.0,Chile, ,0.0,0.0,255931.0,NED,CHI
@@ -348,12 +348,12 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2014.0,Group C,Japan,1.0,4.0,Colombia, ,1.0,1.0,255931.0,JPN,COL
 2014.0,Group C,Greece,2.0,1.0,Ivory Coast, ,1.0,0.0,255931.0,GRE,CIV
 2014.0,Group F,Nigeria,2.0,3.0,Argentina, ,1.0,2.0,255931.0,NGA,ARG
-2014.0,Group F,Bosnia and Herzegovina,3.0,1.0,IR Iran, ,1.0,0.0,255931.0,BIH,IRN
+2014.0,Group F,Bosnia and Herzegovina,3.0,1.0,Iran, ,1.0,0.0,255931.0,BIH,IRN
 2014.0,Group E,Honduras,0.0,3.0,Switzerland, ,0.0,2.0,255931.0,HON,SUI
 2014.0,Group E,Ecuador,0.0,0.0,France, ,0.0,0.0,255931.0,ECU,FRA
 2014.0,Group G,USA,0.0,1.0,Germany, ,0.0,0.0,255931.0,USA,GER
 2014.0,Group G,Portugal,2.0,1.0,Ghana, ,1.0,0.0,255931.0,POR,GHA
-2014.0,Group H,Korea Republic,0.0,1.0,Belgium, ,0.0,0.0,255931.0,KOR,BEL
+2014.0,Group H,South Korea,0.0,1.0,Belgium, ,0.0,0.0,255931.0,KOR,BEL
 2014.0,Group H,Algeria,1.0,1.0,Russia, ,0.0,1.0,255931.0,ALG,RUS
 2014.0,Round of 16,Brazil,1.0,1.0,Chile,Brazil win on penalties (3 - 2) ,0.0,0.0,255951.0,BRA,CHI
 2014.0,Round of 16,Colombia,2.0,0.0,Uruguay, ,1.0,0.0,255951.0,COL,URU
@@ -387,3 +387,67 @@ Year,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win con
 2014.0,Semi-finals,Netherlands,0.0,0.0,Argentina,Argentina win on penalties (2 - 4) ,0.0,0.0,255955.0,NED,ARG
 2014.0,Play-off for third place,Brazil,0.0,3.0,Netherlands, ,0.0,2.0,255957.0,BRA,NED
 2014.0,Final,Germany,1.0,0.0,Argentina,Germany win after extra time ,0.0,0.0,255959.0,GER,ARG
+2018.0,Group-1,Russia,5.0,0.0,Saudi Arabia,,,,,,
+2018.0,Group-1,Egypt,0.0,1.0,Uruguay,,,,,,
+2018.0,Group-1,Morocco,0.0,1.0,Iran,,,,,,
+2018.0,Group-1,Portugal,3.0,3.0,Spain,,,,,,
+2018.0,Group-1,France,2.0,1.0,Australia,,,,,,
+2018.0,Group-1,Argentina,1.0,1.0,Iceland,,,,,,
+2018.0,Group-1,Peru,0.0,1.0,Denmark,,,,,,
+2018.0,Group-1,Croatia,2.0,0.0,Nigeria,,,,,,
+2018.0,Group-1,Costa Rica,0.0,1.0,Serbia,,,,,,
+2018.0,Group-1,Germany,0.0,1.0,Mexico,,,,,,
+2018.0,Group-1,Brazil,1.0,1.0,Switzerland,,,,,,
+2018.0,Group-1,Sweden,1.0,0.0,South Korea,,,,,,
+2018.0,Group-1,Belgium,3.0,0.0,Panama,,,,,,
+2018.0,Group-1,Tunisia,1.0,2.0,England,,,,,,
+2018.0,Group-1,Colombia,1.0,2.0,Japan,,,,,,
+2018.0,Group-1,Poland,1.0,2.0,Senegal,,,,,,
+2018.0,Group-2,Russia,3.0,1.0,Egypt,,,,,,
+2018.0,Group-2,Portugal,1.0,0.0,Morocco,,,,,,
+2018.0,Group-2,Uruguay,1.0,0.0,Saudi Arabia,,,,,,
+2018.0,Group-2,Iran,0.0,1.0,Spain,,,,,,
+2018.0,Group-2,Denmark,1.0,1.0,Australia,,,,,,
+2018.0,Group-2,France,1.0,0.0,Peru,,,,,,
+2018.0,Group-2,Argentina,0.0,3.0,Croatia,,,,,,
+2018.0,Group-2,Brazil,2.0,0.0,Costa Rica,,,,,,
+2018.0,Group-2,Nigeria,2.0,0.0,Iceland,,,,,,
+2018.0,Group-2,Serbia,1.0,2.0,Switzerland,,,,,,
+2018.0,Group-2,Belgium,5.0,2.0,Tunisia,,,,,,
+2018.0,Group-2,South Korea,1.0,2.0,Mexico,,,,,,
+2018.0,Group-2,Germany,2.0,1.0,Sweden,,,,,,
+2018.0,Group-2,England,6.0,1.0,Panama,,,,,,
+2018.0,Group-2,Japan,2.0,2.0,Senegal,,,,,,
+2018.0,Group-2,Poland,0.0,3.0,Colombia,,,,,,
+2018.0,Group-3,Saudi Arabia,2.0,1.0,Egypt,,,,,,
+2018.0,Group-3,Uruguay,3.0,0.0,Russia,,,,,,
+2018.0,Group-3,Iran,1.0,1.0,Portugal,,,,,,
+2018.0,Group-3,Spain,2.0,2.0,Morocco,,,,,,
+2018.0,Group-3,Australia,0.0,2.0,Peru,,,,,,
+2018.0,Group-3,Denmark,0.0,0.0,France,,,,,,
+2018.0,Group-3,Nigeria,1.0,2.0,Argentina,,,,,,
+2018.0,Group-3,Iceland,1.0,2.0,Croatia,,,,,,
+2018.0,Group-3,Mexico,0.0,3.0,Sweden,,,,,,
+2018.0,Group-3,South Korea,2.0,0.0,Germany,,,,,,
+2018.0,Group-3,Switzerland,2.0,2.0,Costa Rica,,,,,,
+2018.0,Group-3,Serbia,0.0,2.0,Brazil,,,,,,
+2018.0,Group-3,Senegal,0.0,1.0,Colombia,,,,,,
+2018.0,Group-3,Japan,0.0,1.0,Poland,,,,,,
+2018.0,Group-3,England,0.0,1.0,Belgium,,,,,,
+2018.0,Group-3,Panama,1.0,2.0,Tunisia,,,,,,
+2018.0,Last-16,France,4.0,3.0,Argentina,,,,,,
+2018.0,Last-16,Uruguay,2.0,1.0,Portugal,,,,,,
+2018.0,Last-16,Spain,1.0,1.0,Russia,,,,,,
+2018.0,Last-16,Croatia,1.0,1.0,Denmark,,,,,,
+2018.0,Last-16,Brazil,2.0,0.0,Mexico,,,,,,
+2018.0,Last-16,Belgium,3.0,2.0,Japan,,,,,,
+2018.0,Last-16,Sweden,1.0,0.0,Switzerland,,,,,,
+2018.0,Last-16,Colombia,1.0,1.0,England,,,,,,
+2018.0,QFinals,Uruguay,0.0,2.0,France,,,,,,
+2018.0,QFinals,Brazil,1.0,2.0,Belgium,,,,,,
+2018.0,QFinals,Sweden,0.0,2.0,England,,,,,,
+2018.0,QFinals,Russia,2.0,2.0,Croatia,,,,,,
+2018.0,SFinals,France,1.0,0.0,Belgium,,,,,,
+2018.0,SFinals,Croatia,2.0,1.0,England,,,,,,
+2018.0,Third-Place,Belgium,2.0,0.0,England,,,,,,
+2018.0,Final,Croatia,4.0,2.0,France,,,,,,
