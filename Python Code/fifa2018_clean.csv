@@ -1,0 +1,65 @@
+Year,Stage,Home Team Name,Away Team Name,Home Team Goals,Away Team Goals
+2018.0,Group-1,Russia,Saudi Arabia,5,0
+2018.0,Group-1,Egypt,Uruguay,0,1
+2018.0,Group-1,Morocco,Iran,0,1
+2018.0,Group-1,Portugal,Spain,3,3
+2018.0,Group-1,France,Australia,2,1
+2018.0,Group-1,Argentina,Iceland,1,1
+2018.0,Group-1,Peru,Denmark,0,1
+2018.0,Group-1,Croatia,Nigeria,2,0
+2018.0,Group-1,Costa Rica,Serbia,0,1
+2018.0,Group-1,Germany,Mexico,0,1
+2018.0,Group-1,Brazil,Switzerland,1,1
+2018.0,Group-1,Sweden,South Korea,1,0
+2018.0,Group-1,Belgium,Panama,3,0
+2018.0,Group-1,Tunisia,England,1,2
+2018.0,Group-1,Colombia,Japan,1,2
+2018.0,Group-1,Poland,Senegal,1,2
+2018.0,Group-2,Russia,Egypt,3,1
+2018.0,Group-2,Portugal,Morocco,1,0
+2018.0,Group-2,Uruguay,Saudi Arabia,1,0
+2018.0,Group-2,Iran,Spain,0,1
+2018.0,Group-2,Denmark,Australia,1,1
+2018.0,Group-2,France,Peru,1,0
+2018.0,Group-2,Argentina,Croatia,0,3
+2018.0,Group-2,Brazil,Costa Rica,2,0
+2018.0,Group-2,Nigeria,Iceland,2,0
+2018.0,Group-2,Serbia,Switzerland,1,2
+2018.0,Group-2,Belgium,Tunisia,5,2
+2018.0,Group-2,South Korea,Mexico,1,2
+2018.0,Group-2,Germany,Sweden,2,1
+2018.0,Group-2,England,Panama,6,1
+2018.0,Group-2,Japan,Senegal,2,2
+2018.0,Group-2,Poland,Colombia,0,3
+2018.0,Group-3,Saudi Arabia,Egypt,2,1
+2018.0,Group-3,Uruguay,Russia,3,0
+2018.0,Group-3,Iran,Portugal,1,1
+2018.0,Group-3,Spain,Morocco,2,2
+2018.0,Group-3,Australia,Peru,0,2
+2018.0,Group-3,Denmark,France,0,0
+2018.0,Group-3,Nigeria,Argentina,1,2
+2018.0,Group-3,Iceland,Croatia,1,2
+2018.0,Group-3,Mexico,Sweden,0,3
+2018.0,Group-3,South Korea,Germany,2,0
+2018.0,Group-3,Switzerland,Costa Rica,2,2
+2018.0,Group-3,Serbia,Brazil,0,2
+2018.0,Group-3,Senegal,Colombia,0,1
+2018.0,Group-3,Japan,Poland,0,1
+2018.0,Group-3,England,Belgium,0,1
+2018.0,Group-3,Panama,Tunisia,1,2
+2018.0,Last-16,France,Argentina,4,3
+2018.0,Last-16,Uruguay,Portugal,2,1
+2018.0,Last-16,Spain,Russia,1,1
+2018.0,Last-16,Croatia,Denmark,1,1
+2018.0,Last-16,Brazil,Mexico,2,0
+2018.0,Last-16,Belgium,Japan,3,2
+2018.0,Last-16,Sweden,Switzerland,1,0
+2018.0,Last-16,Colombia,England,1,1
+2018.0,QFinals,Uruguay,France,0,2
+2018.0,QFinals,Brazil,Belgium,1,2
+2018.0,QFinals,Sweden,England,0,2
+2018.0,QFinals,Russia,Croatia,2,2
+2018.0,SFinals,France,Belgium,1,0
+2018.0,SFinals,Croatia,England,2,1
+2018.0,Third-Place,Belgium,England,2,0
+2018.0,Final,Croatia,France,4,2
