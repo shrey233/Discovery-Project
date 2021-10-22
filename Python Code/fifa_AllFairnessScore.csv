@@ -24,20 +24,27 @@ Year,Country,NumGames,Fairness,TeamRank,FinalPos
 1994.0,Switzerland,4,158,7,12.5
 1994.0,USA,4,168,23,12.5
 1998.0,Argentina,5,174,5,6.5
+1998.0,Austria,3,171,22,24.5
 1998.0,Belgium,3,181,35,24.5
 1998.0,Brazil,7,169,1,2.0
+1998.0,Bulgaria,3,155,49,24.5
 1998.0,Cameroon,3,177,41,24.5
 1998.0,Chile,4,168,16,12.5
 1998.0,Colombia,3,178,34,24.5
+1998.0,Croatia,7,173,4,3.0
+1998.0,Denmark,5,176,19,6.5
 1998.0,England,4,167,9,12.5
 1998.0,France,7,162,2,1.0
 1998.0,Germany,5,174,3,6.5
+1998.0,Iran,3,187,27,24.5
 1998.0,Italy,5,162,7,6.5
 1998.0,Jamaica,3,188,33,24.5
 1998.0,Japan,3,185,20,24.5
+1998.0,Mexico,4,170,10,12.5
 1998.0,Morocco,3,182,13,24.5
 1998.0,Netherlands,7,170,11,4.0
 1998.0,Nigeria,4,159,65,12.5
+1998.0,Norway,4,183,14,12.5
 1998.0,Paraguay,4,145,25,12.5
 1998.0,Romania,4,170,12,12.5
 1998.0,Saudi Arabia,3,178,30,24.5
@@ -45,6 +52,7 @@ Year,Country,NumGames,Fairness,TeamRank,FinalPos
 1998.0,South Africa,3,177,26,24.5
 1998.0,South Korea,3,175,17,24.5
 1998.0,Spain,3,141,15,24.5
+1998.0,Tunisia,3,175,21,24.5
 1998.0,USA,3,186,23,24.5
 1998.0,Yugoslavia,4,176,6,12.5
 2002.0,Argentina,3,2025,5,24.5
@@ -72,7 +80,7 @@ Year,Country,NumGames,Fairness,TeamRank,FinalPos
 2002.0,Senegal,5,2137,27,6.5
 2002.0,Slovenia,3,2094,36,24.5
 2002.0,South Africa,3,2078,30,24.5
-2002.0,South Korea,7,2061,20,
+2002.0,South Korea,7,2061,20,4.0
 2002.0,Spain,5,1935,3,6.5
 2002.0,Sweden,4,2127,25,12.5
 2002.0,Tunisia,3,1982,41,24.5
