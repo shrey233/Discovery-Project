@@ -39,6 +39,8 @@ generateFairness <- function(year) {
   # Count number of games each team plays.
   numgames <- table(c(games$Home.Team.Name,games$Away.Team.Name))
   
+  numgames.df <- as.data.frame(numgames)
+  
   # Final position is 17-32 (or 24.5) if played 3 games (i.e. did not leave group stage)
   # Final position is 9-16 (or 12.5) if played 4 games (i.e. reached round of 16)
   # Final position is 5-8 (or 6.5) if played 5 games (i.e. reached quarter final)
@@ -65,8 +67,13 @@ generateFairness <- function(year) {
                          by.x="name", by.y="name",
                          x.all=FALSE, y.all=FALSE, no.dups = TRUE)
   
+  fairnessResultsRanks <- merge(x = fairnessResultsRanks,
+                                y = numgames.df,
+                                by.x="name", by.y="Var1",
+                                x.all=FALSE, y.all=FALSE, no.dups = TRUE)
+  
   # Change order of cols
-  fairnessResultsRanks <- fairnessResultsRanks[, c(3,1,2,4,5)]
+  fairnessResultsRanks <- fairnessResultsRanks[, c(3,1,6,2,4,5)]
   
   return(fairnessResultsRanks)
   
