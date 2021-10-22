@@ -18,18 +18,34 @@ generateFairness <- function(year) {
   }
   
   # Create data frame of teams
-  teamsYear <- data.frame(name = levels(factor(games$Home.Team.Name)))
+  teamsYearH <- data.frame(name = levels(factor(games$Home.Team.Name)))
+  teamsYearA <- data.frame(name = levels(factor(games$Away.Team.Name)))
   
+  teamsYear <- rbind(teamsYearH, teamsYearA)
+  
+  teamsYear <- (teamsYear[!duplicated(teamsYear$name),,drop=TRUE])
+  
+  teamsYear <- as.data.frame(teamsYear)
+  
+  colnames(teamsYear) <- c("name")
   
   # Apply function to each team in the world cup
   teamsYear$fairness = sapply(teamsYear$name,fairness)
+  
+  #year <- 1994
   
   # Fill a column with the current year so it can be accessed
   teamsYear$year <- year
   
   gamesRanks <- games[c("Home.Team.Name","home_rank")]
   
-  #teamsfull <- teams %>% right_join(games, by=c("name", "Home.Team.Name"))
+  gamesRanksH <- games[c("Home.Team.Name","home_rank")]
+  gamesRanksA <- games[c("Away.Team.Name","away_rank")]
+  
+  colnames(gamesRanksA) <- c("Home.Team.Name","home_rank")
+  
+  gamesRanks <- rbind(gamesRanksH, gamesRanksA)
+  
   
   fairnessRanks <- merge(x = teamsYear,
                          y = gamesRanks[!duplicated(gamesRanks$Home.Team.Name), ],
@@ -38,6 +54,8 @@ generateFairness <- function(year) {
   
   # Count number of games each team plays.
   numgames <- table(c(games$Home.Team.Name,games$Away.Team.Name))
+  
+  numgames.df <- as.data.frame(numgames)
   
   # Final position is 17-32 (or 24.5) if played 3 games (i.e. did not leave group stage)
   # Final position is 9-16 (or 12.5) if played 4 games (i.e. reached round of 16)
@@ -61,12 +79,17 @@ generateFairness <- function(year) {
   teamsPos <- teams[,1-3]
   
   fairnessResultsRanks <- merge(x = fairnessRanks,
-                         y = teamsPos[!duplicated(teamsPos$name), ],
+                         y = teamsPos,
                          by.x="name", by.y="name",
-                         x.all=FALSE, y.all=FALSE, no.dups = TRUE)
+                         x.all=FALSE)
+  
+  fairnessResultsRanks <- merge(x = fairnessResultsRanks,
+                                y = numgames.df,
+                                by.x="name", by.y="Var1",
+                                x.all=FALSE, y.all=FALSE, no.dups = TRUE)
   
   # Change order of cols
-  fairnessResultsRanks <- fairnessResultsRanks[, c(3,1,2,4,5)]
+  fairnessResultsRanks <- fairnessResultsRanks[, c(3,1,6,2,4,5)]
   
   return(fairnessResultsRanks)
   
